@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 <ul>
-  <li>I'm <a href = "https://ashishps.com/">Narayana</a>, a Software Engineer having 8+ years of experience working in Java full stack development.</li>
+  <li>I'm Narayana, a Software Engineer having 8+ years of experience working in Java full stack development.</li>
   <li>Experienced with Java and frameworks Spring, Spring boot , Spring cloud, Spring web flux, Spring Batch, Spring Security, Hibernate , Spring Data JPA and Micro services. 
   Experienced with JavaScript and front end frameworks such as Angular and React JS.
   Experience with Html, CSS , Angular material and Prime NG</li>
